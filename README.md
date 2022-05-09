@@ -1,7 +1,7 @@
 # design-patterns
 * [AbstractFactory](AbstractFactory)
 * [Adapter](Adapter)
-* [Builder](ChainOfResponsibility
+* [Builder](Builder)
 * [Command](Command)
 * [Composite](Composite)
 * [Decorator](Decorator)
