@@ -1,5 +1,5 @@
 # design-patterns
-*[AbstractFactory](AbstractFactory)
+* [AbstractFactory](AbstractFactory)
 *[Adapter](Adapter)
 *[Builder](ChainOfResponsibility
 *[Command](Command)
