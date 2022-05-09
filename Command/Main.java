@@ -42,14 +42,6 @@ public class Main {
                     .forEach(Command::execute);
         
             updateTime();
-//            
-//            try {
-//                Thread.sleep(500);
-//                updateTime();
-//
-//            } catch (InterruptedException e) {
-//                e.printStackTrace();
-//            }
         }
     }
 }
