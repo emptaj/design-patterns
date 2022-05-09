@@ -1,0 +1,2 @@
+# design-patterns
+[Adapter](Adapter)
